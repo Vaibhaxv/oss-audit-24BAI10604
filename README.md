@@ -1,8 +1,8 @@
 # 🐍 Python Audit — Open Source Software Capstone Project
 
 > **Course:** Open Source Software  
-> **Student Name:** Friend's Name  
-> **Registration Number:** Friend's Reg No  
+> **Student Name:** VAIBHAV GUPTA  
+> **Registration Number:** 24BAI10604
 > **Environment:** Ubuntu / WSL (Windows Subsystem for Linux)
 
 ---
@@ -121,8 +121,8 @@ chmod +x *.sh
     5.15.90.1-microsoft-standard-WSL2
 
 [3] CURRENT USER:
-    Username    : student
-    Home Dir    : /home/student
+    Username    : vaibhav
+    Home Dir    : /home/vaibhav
     Shell       : /bin/bash
 
 [4] SYSTEM UPTIME:
